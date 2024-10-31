@@ -13,3 +13,8 @@ To add git to all file in the directory : git add .
 
 Git commit              : git commit -m "write message here, using present tense"
 To see commit details   : git log
+
+
+To check changes or differences : git diff fileName
+
+To roll back the changes to the previous one : git checkout fileName
